@@ -10,7 +10,7 @@ This project analyzes traffic data for the city of Bengaluru using Power BI. The
 
 ## Tools and Technologies Used
 - **Power BI**: For creating interactive dashboards and data visualization.
-- **Data Source**: 
+- **Data Source**: https://github.com/nachimuthu2906/bengaluru-traffic-analysis/blob/main/Banglore_traffic_Dataset.csv
   
 ## Installation & Usage
 To view the Power BI report:
