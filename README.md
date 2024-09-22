@@ -19,7 +19,8 @@ To view the Power BI report:
 3. Interact with the dashboards to explore the traffic data.
 
 ## Screenshots
-<img src = (https://github.com/user-attachments/assets/14bb3c4b-178a-4a3b-bac9-e4f284e81d0a) >
+![image](https://github.com/user-attachments/assets/c061f11e-3f9d-42c3-b544-6f8cfc4df18e)
+
 
 
 ## Project Insights
